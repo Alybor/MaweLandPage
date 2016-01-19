@@ -1,5 +1,7 @@
 html{
     overflow-x:hidden; 
+    height: 100%;
+    
 }
 
 body{
@@ -11,7 +13,12 @@ body{
     font-size: 1em;
     line-height: 20px;
     color: #333;
-    background-image: url("images/bg.jpg");
+    
+    background: url("images/bg.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;   
 }
 
 p{
@@ -25,6 +32,36 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+.myForm{
+    background-color: rgba(black, black, black, .5);
+}
+
+.myButton {
+	
+	background-color:transparent;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	border:2px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	padding:8px 10px;
+	text-decoration:none;
+	
+}
+.myButton:hover {
+	background-color:transparent;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
 
 .center{
     display: block;
