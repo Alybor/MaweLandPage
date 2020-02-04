@@ -15,6 +15,9 @@ Ingeniería en Producción Multimedia. _Universidad La Salle Noroeste. 2007-2013
 * Entendimiento y manejo profesional de Microsoft Office.
 * Experiencia con optimización de motores de búsqueda, SEO.
 * Familiarizado con herramientas para la gestión de equipos de trabajo como Trello, Slack y Jira.
+ 
+#### Objetivo  
+Ejercer mis habilidades y experiencia en desarrollo web y multimedia para el beneficio y progreso propio y de la empresa.
 
 #### Experiencia Profesional
 * Mawe Tecnologías & ENDO 3D Shop (Dic 2016 – Ene 2020).  
@@ -23,9 +26,6 @@ Ingeniería en Producción Multimedia. _Universidad La Salle Noroeste. 2007-2013
 
 * Periódico El Valle (2012 – 2013) – Community Manager.  
  _Manejo de redes sociales y mantenimiento de sitio web._
- 
-#### Objetivo  
-Ejercer mis habilidades y experiencia en desarrollo web y multimedia para el beneficio y progreso propio y de la empresa.
 
 #### Otras Habilidades
 * Manejo de Idioma Inglés a nivel profesional.
