@@ -4,9 +4,6 @@ _allan.ybarra@gmail.com_
 _644 997 31 62_  
 _Guadalajara,Jalisco,México._
 
-#### Objetivo  
-Ejercer mis habilidades y experiencia en desarrollo web y multimedia para el beneficio y progreso propio y de la empresa.
-
 #### Educación  
 Ingeniería en Producción Multimedia. _Universidad La Salle Noroeste. 2007-2013 - Cd. Obregón, Sonora.
 
@@ -26,6 +23,9 @@ Ingeniería en Producción Multimedia. _Universidad La Salle Noroeste. 2007-2013
 
 * Periódico El Valle (2012 – 2013) – Community Manager.  
  _Manejo de redes sociales y mantenimiento de sitio web._
+ 
+#### Objetivo  
+Ejercer mis habilidades y experiencia en desarrollo web y multimedia para el beneficio y progreso propio y de la empresa.
 
 #### Otras Habilidades
 * Manejo de Idioma Inglés a nivel profesional.
