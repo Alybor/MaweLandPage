@@ -5,7 +5,7 @@ _644 997 31 62_
 _Guadalajara,Jalisco,México._
 
 #### Educación  
-Ingeniería en Producción Multimedia. _Universidad La Salle Noroeste. 2007-2013 - Cd. Obregón, Sonora.
+Ingeniería en Producción Multimedia. _Universidad La Salle Noroeste. 2007-2012 - Cd. Obregón, Sonora.
 
 #### Aptitudes Profesionales  
 * Amplia experiencia codificando en HTML 5, CSS 3 y diseño web responsivo para móviles.
